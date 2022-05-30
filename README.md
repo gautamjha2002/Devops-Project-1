@@ -32,7 +32,7 @@ Now pull the Git project in any of your directory
 
 
 ```bash
-  git pull https://github.com/gautamjha2002/Devops-Projects.git
+  git pull https://github.com/gautamjha2002/Devops-Project-1.git
 ```
 After pulling the Project open terminal and change directory to same location where project is pulled.
   
